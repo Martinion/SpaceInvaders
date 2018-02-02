@@ -1,0 +1,3 @@
+D:\Skulearbeid\Prog II\Oblig 1\SpaceInvaders\MyProject\Source\MyProject\MyProject.Build.cs
+D:\Skulearbeid\Prog II\Oblig 1\SpaceInvaders\MyProject\Source\MyProject.Target.cs
+D:\Skulearbeid\Prog II\Oblig 1\SpaceInvaders\MyProject\Source\MyProjectEditor.Target.cs
